@@ -3,29 +3,28 @@
 [![pip](https://img.shields.io/badge/pip-v10.0.X-yellow.svg)](https://pypi.org/project/pip/)
 [![virtualenv](https://img.shields.io/badge/virtualenv-v15.1.X-red.svg)](https://virtualenv.pypa.io/en/stable/)
 
-El proyecto es una `<utility/tool/feature>` que permite a `<insert_target_audience>` hacer `<action/task_it_does>`.
+Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
-Línea adicional de texto de información sobre lo que hace el proyecto. Tu introducción debe tener alrededor de 2 o 3 oraciones. No se exceda, la gente no lo leerá.
+Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
-## Tabla de contenido
+## Table of Contents
 
-- [Prerrequisitos](#prerrequisitos)
-- [Instalación](#instalación)
-- [Inicio rápido](#inicio-rápido)
-- [Contribuyendo](#contribuyendo)
-- [Lecturas adicionales / Enlaces útiles](#lecturas-adicionales--enlaces-útiles)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Quickstart](#quickstart)
+- [Contributing](#contributing)
+- [Further reading / Useful links](#further-reading--useful-links)
 
-## Prerrequisitos
+## Prerequisites
 
+Before you begin, ensure you have met the following requirements:
+* You have installed the latest version of `<coding_language/dependency/requirement_1>`
+* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+* You have read `<guide/link/documentation_related_to_project>`.
 
-Antes de comenzar, asegúrese de haber cumplido los siguientes requisitos:
-* Ha instalado la última versión de `<coding_language/dependency/requirement_1>`
-* Tiene una máquina  `<Windows/Linux/Mac>`. Indique qué sistema operativo es compatible y cuál no.
-* Ha leído `<guide/link/documentation_related_to_project>`.
+## Installation
 
-## Instalación
-
-Para instalar <project_name>, siga estos pasos:
+To install <project_name>, follow these steps:
 
 Linux and macOS:
 ```
@@ -36,34 +35,48 @@ Windows:
 ```
 <install_command>
 ```
+## Using <project_name>
 
-## Inicio rápido
-
-Para usar <project_name>, siga estos pasos:
+To use <project_name>, follow these steps:
 
 ```
 <usage_example>
 ```
 
-Agregue comandos de ejecución y ejemplos que crea que los usuarios encontrarán útiles. ¡Proporcione una referencia de opciones para puntos de bonificación!
+Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contribuyendo
+## Quickstart
 
-Para contribuir a <project_name>, siga estos pasos:
+To use <project_name>, follow these steps:
 
-1. Bifurque este repositorio. (Fork)
-2. Cree una rama: `git checkout -b <branch_name>`.
-3. Haga sus cambios: `git commit -m '<commit_message>'`
-4. Push a la rama original: `git push origin <project_name>/<location>`
-5. Cree una pull request.
+```
+<usage_example>
+```
 
-Como alternativa, consulte la documentación de GitHub sobre [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Lecturas adicionales / Enlaces útiles
+## Contributing
+
+To contribute to <project_name>, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Further reading / Useful links
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## Contact
 
-Si quieres contactarme puedes contactarme al <your_email@address.com>.
+If you want to contact me you can reach me at <your_email@address.com>.
+
+## License
+<!--- If you're not sure which open license to use see https://choosealicense.com/--->
+
+This project uses the following license: [<license_name>](<link>).
